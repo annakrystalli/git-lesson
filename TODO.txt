@@ -1,0 +1,4 @@
+- Create first repository (done)
+- Add a file to repo (repo)
+- Modify our file locally (done)
+- Modify our repo on GitHub
